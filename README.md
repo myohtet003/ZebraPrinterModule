@@ -1,6 +1,8 @@
-# Zebra Printer Android Module for React Native(Expo)
+# React Native Zebra Bluetooth Printer (Android - Expo)
 
-This repository contains an **Android native module** for printing barcodes and text to **Zebra Bluetooth and LAN printers** from **React Native** apps.
+This project provides a **Zebra Bluetooth BLE barcode printing solution** for **React Native (Expo)** using Android native module.
+
+Keywords: Zebra printer, Bluetooth BLE, barcode printing, ZPL, React Native, Expo, Android printing
 
 It includes:
 
@@ -131,3 +133,14 @@ The module emits events for printer status, connection, and disconnection.
 Zebra Android SDK ([text](https://www.zebra.com/us/en/support-downloads/software/scanner-software/scanner-sdk-for-android.html))
 
 React Native Native Modules
+
+```markdown
+## 🚀 Features
+
+- ✅ Zebra Bluetooth BLE printing
+- ✅ LAN printing support
+- ✅ Print ZPL (barcode labels)
+- ✅ Base64 printing support
+- ✅ Printer status checking
+- ✅ Event listeners (connected / disconnected / status)
+```
